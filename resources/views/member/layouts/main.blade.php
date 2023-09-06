@@ -8,7 +8,7 @@
     <style>
         /* Add custom styles for the sidebar */
         .sidebar {
-            transition: transform 0.3s ease, box-shadow 0.3s ease, width 0.3s ease;
+            transition: transform 0.7s ease, box-shadow 0.7s ease, width 0.7s ease;
             min-height: 100%;
             /* Ensure the sidebar takes full height */
         }
@@ -29,7 +29,7 @@
         }
 
         .content {
-            transition: width 0.3s ease;
+            transition: width 0.7s ease;
         }
 
         .content.closed {
